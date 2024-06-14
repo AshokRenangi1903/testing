@@ -1,3 +1,1 @@
-dkh
-what the
-agj
+Bye file should contain bye msg only
